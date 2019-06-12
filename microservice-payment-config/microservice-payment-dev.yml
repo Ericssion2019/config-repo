@@ -77,4 +77,4 @@ log4j:
       apache: true
 
 from:
-  dev-2.5
+  dev-1.0
