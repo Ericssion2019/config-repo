@@ -29,9 +29,9 @@ feign:
   httpclient:
     connection-timeout: 60000
 
-server:
-  max-http-header-size: 10240000
-  port: 8302
+#server:
+  #max-http-header-size: 10240000
+  #port: 8302
 
 spring:
   application:
