@@ -1,20 +1,3 @@
-#自定义配置
-# arb:
-#   eureka:
-#     url: localhost
-#   service:
-#     name: microservice-collect
-#     port: 8401
-#     url: localhost
-#   database:
-#     url: 192.168.0.100
-#     username: root
-#     password: Arbfintech@123
-#   rabbitmq:
-#     url: 192.168.0.100
-#     username: Arbfintech
-#     password: Arbfintech
-
 logging:
   config: classpath:log4j2.yml
 
