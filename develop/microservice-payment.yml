@@ -74,4 +74,8 @@ log4j:
   rootLogger: DEBUG
   addityvity:
     org:
+<<<<<<< HEAD
       apache: true
+=======
+      apache: true
+>>>>>>> 982a1e7cd2e240a62d37740933345087e477efb7
