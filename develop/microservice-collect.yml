@@ -14,11 +14,6 @@ arb:
     url: 192.168.0.100
     username: Arbfintech
     password: Arbfintech
-logging:
-  level:
-    com:
-      arbfintech: DEBUG
-
     
 logging:
   config: classpath:log4j2.yml
